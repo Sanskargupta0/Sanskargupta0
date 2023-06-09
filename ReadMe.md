@@ -10,7 +10,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sanskargupta0&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sanskargupta0&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskargupta0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🐦 Latest Tweet
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you have a computer &amp; internet<br><br>You can learn to code.<br><br>No excuses.</p>&mdash; Sanskar Gupta (@Sanskar362002) <a href="#">June 6, 2023</a></blockquote>
