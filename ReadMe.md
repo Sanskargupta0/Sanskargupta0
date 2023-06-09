@@ -13,12 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskargupta0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🐦 Latest Tweet
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you have a computer &amp; internet<br><br>You can learn to code.<br><br>No excuses.</p>&mdash; Sanskar Gupta (@Sanskar362002) <a href="https://twitter.com/imanmcodes/status/1666220408998068226?ref_src=twsrc%5Etfw">June 6, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you have a computer &amp; internet<br><br>You can learn to code.<br><br>No excuses.</p>&mdash; Sanskar Gupta (@Sanskar362002) <a href="https://twitter.com/imanmcodes/status/1666220408998068226?ref_src=twsrc%5Etfw">June 6, 2023</a></blockquote>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.invisionapp.com%2Finside-design%2F6-design-dev-memes%2F&psig=AOvVaw3iB3g7YaD-e-H7elopoeR_&ust=1686376354790000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKCYktW_tf8CFQAAAAAdAAAAABAh" width="512px"/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
