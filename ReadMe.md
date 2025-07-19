@@ -84,7 +84,9 @@
         <td align="center"><a href="https://github.com/Sanskargupta0#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanskargupta0&theme=default"/></a><a href="https://github.com/Sanskargupta0#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanskargupta0&theme=tokyonight"/></a></td>
     </tr>
     <tr>
-        <td colspan="2" align="center"><a href="https://github.com/Sanskargupta0#gh-light-mode-only"><img src="https://raw.githubusercontent.com/Sanskargupta0/Sanskargupta0/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/Sanskargupta0#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/Sanskargupta0/Sanskargupta0/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td colspan="2" align="center">
+            <img src="https://github.com/Sanskargupta0/Sanskargupta0/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation"/>
+        </td>
     </tr>
 </table>
 
@@ -94,7 +96,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-555?style=flat&logo=linkedin)](https://linkedin.com/in/sanskar-gupta)
 [![Email](https://img.shields.io/badge/-Email-555?style=flat&logo=gmail)](mailto:your.email@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)](https://github.com/Sanskargupta0)
-[![Resume](https://img.shields.io/badge/-Download%20Resume-555?style=flat&logo=document&logoColor=white)](https://github.com/Sanskargupta0/Sanskargupta0/raw/main/Sanskar-Gupta.pdf)
+[![Resume](https://img.shields.io/badge/-Download%20Resume-555?style=flat&logo=document&logoColor=white)](https://github.com/Sanskargupta0/Sanskargupta0/raw/main/Sanskar-Gupta-FlowCV-Resume-20250719.pdf)
 </div>
 
 ---
