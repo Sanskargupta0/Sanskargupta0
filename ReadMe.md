@@ -1,18 +1,54 @@
-# 💫 About Me:
-👋 Hello there! I'm Sanskar Gupta, a computer science student with a diploma in computer science. Welcome to my GitHub profile!<br><br>💻 My primary interests lie in open-source contribution and web development using the MERN stack. I find immense satisfaction in collaborating with others and creating meaningful solutions that benefit the wider developer community.<br><br>📚 Additionally, I'm also sharpening my skills in data structures and algorithms, primarily using Java. I have a solid grasp of programming languages such as C++, HTML, CSS, JavaScript, and Java. Furthermore, I have a basic understanding of Python.<br><br>🔗 I believe in the power of connection and collaboration, so I'm always open to new opportunities and exciting projects. Let's team up here on GitHub and make amazing contributions together!<br><br>✨ Apart from coding, I'm passionate about continuous self-improvement. I dedicate time to train myself physically by hitting the gym regularly. I also stay up-to-date with the latest technological advancements, as I love exploring new technologies and learning about their potential.<br><br>If you're interested in working together or have any questions, feel free to reach out. Let's build something incredible while having fun along the way! 😊
+<p align="center">
+    <a href="https://github.com/Sanskargupta0/Sanskargupta0"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.11-FF1493.svg"></a>
+    <a href="https://github.com/Sanskargupta0/Sanskargupta0/graphs/contributors"><img src="https://img.shields.io/github/contributors/Sanskargupta0/Sanskargupta0?color=blue"></a>
+    <a href="https://github.com/Sanskargupta0"><img src="https://img.shields.io/github/stars/Sanskargupta0"></a>
+    <a href="https://github.com/Sanskargupta0/Sanskargupta0/network/members"><img src="https://img.shields.io/github/forks/Sanskargupta0/Sanskargupta0.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Sanskargupta0.Sanskargupta0" alt="visitors"/>
+</p>
 
+[![](./src/header_.png)](#)
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/HXRQDjez) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sanskar362002) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ihor-ihor-a11777256/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Sanskar362002) 
+> <b>I Love building things that make peopleʼs lives easier. Iʼm not into partying, donʼt binge Netflix, and I definitely canʼt sing. But give me a problem to solve with code? Iʼll dive deep. Whether it's crafting full-stack apps, deploying scalable backends, or integrating AI into education tools — Iʼm all in. I donʼt chase trends, I chase progress. I want to be part of a team where I can take ideas from 0 → 1 and then 1 → 100. Head down, code up, goal clean </b>\
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![RxDB](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sanskargupta0&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sanskargupta0&theme=dark&hide_border=false)<br/>
+## 🛠️ Tech Stack:
+![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-555?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-555?style=flat&logo=node.js)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-555?style=flat&logo=flutter)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-555?style=flat&logo=dart)&nbsp;\
+![Firebase](https://img.shields.io/badge/-Firebase-555?style=flat&logo=firebase)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-555?style=flat&logo=mongodb)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-555?style=flat&logo=express)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-555?style=flat&logo=html5)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-555?style=flat&logo=css3)&nbsp;\
+![C++](https://img.shields.io/badge/-C++-555?style=flat&logo=C%2B%2B&logoColor=fff)&nbsp;
+![Java](https://img.shields.io/badge/-Java-555?style=flat&logo=java)&nbsp;
+![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;\
+![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-555?style=flat&logo=android-studio)&nbsp;
 
-## 🐦 Latest Tweet
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you have a computer &amp; internet<br><br>You can learn to code.<br><br>No excuses.</p>&mdash; Sanskar Gupta (@Sanskar362002) <a href="#">June 6, 2023</a></blockquote>
+## 📈 GitHub Activity Graph:
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<table>
+    <tr>
+        <td align="center"><a href="https://github.com/Sanskargupta0#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=Sanskargupta0&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/Sanskargupta0#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=Sanskargupta0&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td rowspan="2" align="center"><a href="https://github.com/Sanskargupta0#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskargupta0&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/Sanskargupta0#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskargupta0&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/Sanskargupta0#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanskargupta0&theme=default"/></a><a href="https://github.com/Sanskargupta0#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanskargupta0&theme=tokyonight"/></a></td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><a href="https://github.com/Sanskargupta0#gh-light-mode-only"><img src="https://raw.githubusercontent.com/Sanskargupta0/Sanskargupta0/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/Sanskargupta0#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/Sanskargupta0/Sanskargupta0/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+    </tr>
+</table>
+
+## 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-555?style=flat&logo=linkedin)](https://linkedin.com/in/sanskar-gupta)
+[![Email](https://img.shields.io/badge/-Email-555?style=flat&logo=gmail)](mailto:your.email@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)](https://github.com/Sanskargupta0)
+
+---
+<p align="center">⭐️ From <a href="https://github.com/Sanskargupta0">Sanskar Gupta</a></p>
