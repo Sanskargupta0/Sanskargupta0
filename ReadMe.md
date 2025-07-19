@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/Sanskargupta0/Sanskargupta0"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.11-FF1493.svg"></a>
+    <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-20.x-339933?style=flat&logo=node.js"></a>
     <a href="https://github.com/Sanskargupta0/Sanskargupta0/graphs/contributors"><img src="https://img.shields.io/github/contributors/Sanskargupta0/Sanskargupta0?color=blue"></a>
     <a href="https://github.com/Sanskargupta0"><img src="https://img.shields.io/github/stars/Sanskargupta0"></a>
     <a href="https://github.com/Sanskargupta0/Sanskargupta0/network/members"><img src="https://img.shields.io/github/forks/Sanskargupta0/Sanskargupta0.svg?color=blue&logo=github"></a>
@@ -11,24 +11,67 @@
 
 > <b>I Love building things that make peopleʼs lives easier. Iʼm not into partying, donʼt binge Netflix, and I definitely canʼt sing. But give me a problem to solve with code? Iʼll dive deep. Whether it's crafting full-stack apps, deploying scalable backends, or integrating AI into education tools — Iʼm all in. I donʼt chase trends, I chase progress. I want to be part of a team where I can take ideas from 0 → 1 and then 1 → 100. Head down, code up, goal clean </b>\
 
-## 🛠️ Tech Stack:
-![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-555?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-555?style=flat&logo=node.js)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-555?style=flat&logo=flutter)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-555?style=flat&logo=dart)&nbsp;\
-![Firebase](https://img.shields.io/badge/-Firebase-555?style=flat&logo=firebase)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-555?style=flat&logo=mongodb)&nbsp;
-![Express.js](https://img.shields.io/badge/-Express.js-555?style=flat&logo=express)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-555?style=flat&logo=html5)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-555?style=flat&logo=css3)&nbsp;\
-![C++](https://img.shields.io/badge/-C++-555?style=flat&logo=C%2B%2B&logoColor=fff)&nbsp;
-![Java](https://img.shields.io/badge/-Java-555?style=flat&logo=java)&nbsp;
-![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;\
-![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;
-![VS Code](https://img.shields.io/badge/-VS%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-555?style=flat&logo=android-studio)&nbsp;
+&nbsp;<div align="center">
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ne3c5fannnnfr4vr24ba4tqime&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+</div>
+
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+
+> Tools, languages, and other things that I like to work with.
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Go
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center"  width="96">
+    <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+    </a>
+    <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+  </tr>
+</table>
+
 
 ## 📈 GitHub Activity Graph:
 
@@ -46,9 +89,13 @@
 </table>
 
 ## 📫 Connect with me:
+&nbsp;<div align="center">
+[![Portfolio](https://img.shields.io/badge/-Portfolio-555?style=flat&logo=web&logoColor=white)](https://sanskargupta.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-555?style=flat&logo=linkedin)](https://linkedin.com/in/sanskar-gupta)
 [![Email](https://img.shields.io/badge/-Email-555?style=flat&logo=gmail)](mailto:your.email@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)](https://github.com/Sanskargupta0)
+[![Resume](https://img.shields.io/badge/-Download%20Resume-555?style=flat&logo=document&logoColor=white)](https://github.com/Sanskargupta0/Sanskargupta0/raw/main/Sanskar-Gupta.pdf)
+</div>
 
 ---
 <p align="center">⭐️ From <a href="https://github.com/Sanskargupta0">Sanskar Gupta</a></p>
