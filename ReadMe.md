@@ -9,10 +9,10 @@
 
 [![](./src/header_.png)](#)
 
-> <b>I Love building things that make peopleʼs lives easier. Iʼm not into partying, donʼt binge Netflix, and I definitely canʼt sing. But give me a problem to solve with code? Iʼll dive deep. Whether it's crafting full-stack apps, deploying scalable backends, or integrating AI into education tools — Iʼm all in. I donʼt chase trends, I chase progress. I want to be part of a team where I can take ideas from 0 → 1 and then 1 → 100. Head down, code up, goal clean </b>\
+> <b>I write code, break stuff, then fix it like it never happened. Been doing it long enough to know Stack Overflow is basically family. If I’m not debugging, I’m probably pretending my code will run on the first try (it won’t). Just here building cool things, one late-night commit at a time.</b>\
 
 &nbsp;<div align="center">
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ne3c5fannnnfr4vr24ba4tqime&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ne3c5fannnnfr4vr24ba4tqime&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" />
 </div>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
@@ -83,6 +83,7 @@
     <tr>
         <td align="center"><a href="https://github.com/Sanskargupta0#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanskargupta0&theme=default"/></a><a href="https://github.com/Sanskargupta0#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanskargupta0&theme=tokyonight"/></a></td>
     </tr>
+    <tr><td colspan="2" align="center">My stars ⭐️ </td></tr>
     <tr>
         <td colspan="2" align="center">
             <img src="https://github.com/Sanskargupta0/Sanskargupta0/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation"/>
@@ -92,11 +93,11 @@
 
 ## 📫 Connect with me:
 &nbsp;<div align="center">
-[![Portfolio](https://img.shields.io/badge/-Portfolio-555?style=flat&logo=web&logoColor=white)](https://sanskargupta.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-555?style=flat&logo=web&logoColor=white)](https://www.sanskargupta.dev/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-555?style=flat&logo=linkedin)](https://linkedin.com/in/sanskar-gupta)
 [![Email](https://img.shields.io/badge/-Email-555?style=flat&logo=gmail)](mailto:your.email@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)](https://github.com/Sanskargupta0)
-[![Resume](https://img.shields.io/badge/-Download%20Resume-555?style=flat&logo=document&logoColor=white)](https://github.com/Sanskargupta0/Sanskargupta0/raw/main/Sanskar-Gupta-FlowCV-Resume-20250719.pdf)
+[![Resume](https://img.shields.io/badge/-Download%20Resume-555?style=flat&logo=document&logoColor=white)](https://github.com/Sanskargupta0/Sanskargupta0/raw/main/Sanskar-Gupta.pdf)
 </div>
 
 ---
