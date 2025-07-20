@@ -94,8 +94,8 @@
 ## 📫 Connect with me:
 &nbsp;<div align="center">
 [![Portfolio](https://img.shields.io/badge/-Portfolio-555?style=flat&logo=web&logoColor=white)](https://www.sanskargupta.dev/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-555?style=flat&logo=linkedin)](https://linkedin.com/in/sanskar-gupta)
-[![Email](https://img.shields.io/badge/-Email-555?style=flat&logo=gmail)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-555?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanskargupta0/)
+[![Email](https://img.shields.io/badge/-Email-555?style=flat&logo=gmail)](mailto:sanskar362002@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)](https://github.com/Sanskargupta0)
 [![Resume](https://img.shields.io/badge/-Download%20Resume-555?style=flat&logo=document&logoColor=white)](https://github.com/Sanskargupta0/Sanskargupta0/raw/main/Sanskar-Gupta.pdf)
 </div>
