@@ -9,7 +9,7 @@
 
 [![](./src/header_.png)](#)
 
-> <b>I write code, break stuff, then fix it like it never happened. Been doing it long enough to know Stack Overflow is basically family. If I’m not debugging, I’m probably pretending my code will run on the first try (it won’t). Just here building cool things, one late-night commit at a time.</b>\
+> <b>I write code, break stuff, then fix it like it never happened. Been doing it long enough to know Stack Overflow is basically family. If I’m not debugging, I’m probably pretending my code will run on the first try (it won’t). Just here building cool things, one late-night commit at a time.</b>
 
 &nbsp;<div align="center">
 <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ne3c5fannnnfr4vr24ba4tqime&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" />
