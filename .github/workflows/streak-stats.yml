@@ -1,0 +1,49 @@
+name: Update contribution streak cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  push:
+    branches: [main, update]
+    paths:
+      - ".github/workflows/streak-stats.yml"
+  workflow_dispatch:
+
+concurrency:
+  group: streak-stats-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+
+      - name: Generate light streak card
+        uses: DenverCoder1/github-readme-streak-stats@adbd07609bb771d3510a15ee2f3b31d5fbe5201d # v1
+        with:
+          options: user=${{ github.repository_owner }}&theme=default&disable_animations=true
+          path: profile/streak-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate dark streak card
+        uses: DenverCoder1/github-readme-streak-stats@adbd07609bb771d3510a15ee2f3b31d5fbe5201d # v1
+        with:
+          options: user=${{ github.repository_owner }}&theme=tokyonight&disable_animations=true
+          path: profile/streak-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Save updated cards
+        run: |
+          git config user.name "Sanskar gupta"
+          git config user.email "sanskar362002@gmail.com"
+          git add profile/streak-light.svg profile/streak-dark.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "Update contribution streak cards"
+          git push
