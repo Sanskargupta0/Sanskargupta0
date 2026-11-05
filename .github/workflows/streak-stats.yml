@@ -39,6 +39,7 @@ jobs:
 
       - name: Save updated cards
         run: |
+          sed -i 's/[[:space:]]*$//' profile/streak-light.svg profile/streak-dark.svg
           git config user.name "Sanskar gupta"
           git config user.email "sanskar362002@gmail.com"
           git add profile/streak-light.svg profile/streak-dark.svg
