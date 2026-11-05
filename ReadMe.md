@@ -77,16 +77,16 @@
 
 <table>
     <tr>
-        <td align="center"><a href="https://github.com/Sanskargupta0#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=Sanskargupta0&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/Sanskargupta0#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=Sanskargupta0&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-        <td rowspan="2" align="center"><a href="https://github.com/Sanskargupta0#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskargupta0&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/Sanskargupta0#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskargupta0&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td align="center"><a href="https://github.com/Sanskargupta0#gh-light-mode-only"><img src="https://github-stats-extended.vercel.app/api?username=Sanskargupta0&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/Sanskargupta0#gh-dark-mode-only"><img src="https://github-stats-extended.vercel.app/api?username=Sanskargupta0&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td rowspan="2" align="center"><a href="https://github.com/Sanskargupta0#gh-light-mode-only"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sanskargupta0&theme=default&langs_count=8#gh-light-mode-only" alt="Most Used Languages"/></a><a href="https://github.com/Sanskargupta0#gh-dark-mode-only"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sanskargupta0&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="Most Used Languages"/></a></td>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/Sanskargupta0#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanskargupta0&theme=default"/></a><a href="https://github.com/Sanskargupta0#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanskargupta0&theme=tokyonight"/></a></td>
+        <td align="center"><a href="https://github.com/Sanskargupta0#gh-light-mode-only"><img src="./profile/streak-light.svg#gh-light-mode-only" alt="GitHub Contribution Streak"/></a><a href="https://github.com/Sanskargupta0#gh-dark-mode-only"><img src="./profile/streak-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Streak"/></a></td>
     </tr>
     <tr><td colspan="2" align="center">My stars ⭐️ </td></tr>
     <tr>
         <td colspan="2" align="center">
-            <img src="https://github.com/Sanskargupta0/Sanskargupta0/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation"/>
+            <img src="https://raw.githubusercontent.com/Sanskargupta0/Sanskargupta0/output/github-snake-dark.svg" alt="GitHub Snake Animation"/>
         </td>
     </tr>
 </table>
